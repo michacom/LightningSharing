@@ -23,10 +23,6 @@
     <members>ReadOnlyTestObject__c</members>
   </types>
   <types>
-    <name>PermissionSet</name>
-    <members>TestingPerms</members>
-  </types>
-  <types>
     <name>QuickAction</name>
     <members>PrivateTestObject__c.Sharing</members>
     <members>ReadOnlyTestObject__c.Sharing</members>
